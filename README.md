@@ -5,6 +5,8 @@ Use your knowledge of working with Python files to retrieve, manipulate, obscure
 
 If you get stuck during this project, check out the **project walkthrough video** which can be found in the help menu.
 
+[Get the Full Solution](https://github.com/rahulvyasm/Hacking-The-Fender/blob/main/hacking_the_fender_solution.py)
+
 ## Reading In The Passwords
 ### Task 1
 Are you there? We’ve opened up a communications link to `The Fender`‘s secret computer. We need you to write a program that will read in the compromised usernames and passwords that are stored in a file called `"passwords.csv"`.
